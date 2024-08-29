@@ -19,7 +19,7 @@ Hello, I am Adnan a coder walking in the path of Full Stack Development.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hasura](https://img.shields.io/badge/Hasura-11303B?style=flat&logo=Hasura&logoColor=1EB4D4&labelColor=344A53)
+![Hasura](https://img.shields.io/badge/Hasura-11303B?style=flat&logo=Hasura&logoColor=1EB4D4)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
