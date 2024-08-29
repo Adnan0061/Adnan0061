@@ -25,8 +25,12 @@ Hello, I am Adnan a coder walking in the path of Full Stack Development.
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-11303B?style=flat&logo=Tailwind-CSS&labelColor=344A53)
+![CSS](https://img.shields.io/badge/CSS-11303B?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/Tailwind-11303B?style=for-the-badge&logo=Tailwind-CSS)
+![Sass](https://img.shields.io/badge/Sass-11303B?style=for-the-badge&logo=Sass)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Ant%20Design](https://img.shields.io/badge/Ant%20Design-11303B?style=for-the-badge&logo=Ant%20Design&logoColor=0170FE)
+
 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
